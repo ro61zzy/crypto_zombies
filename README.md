@@ -1,4 +1,4 @@
-Crypto ombie Tutorial
+Crypto Zombie Tutorial
 
 
 Create a number of zombies with defined characteristics
